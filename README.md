@@ -5,13 +5,13 @@ This app lets users add, edit, and delete tasks — helping you stay organized a
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✏️ Add new tasks  
-- ✅ Mark tasks as complete  
-- 🗑️ Delete tasks  
-- 🧩 Edit existing tasks  
-- 💾 Data persistence using local storage (optional)
+- Add new tasks  
+- Mark tasks as complete  
+- Delete tasks  
+- Edit existing tasks  
+- Data persistence using local storage (optional)
 
 ---
 
@@ -31,15 +31,15 @@ This app lets users add, edit, and delete tasks — helping you stay organized a
    git clone https://github.com/joanne-tom/todo_react.git
 
 2. Navigate into the project folder:
-```bash
-  cd todo_react
-```
+   ```bash
+     cd todo_react
+   ```
 
 3.Install dependencies:
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 4.Run the development server:
-```bash
-npm start
+   ```bash
+   npm start
