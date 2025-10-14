@@ -35,11 +35,11 @@ This app lets users add, edit, and delete tasks — helping you stay organized a
      cd todo_react
    ```
 
-3.Install dependencies:
+3. Install dependencies:
    ```bash
-   npm install
+      npm install
    ```
 
-4.Run the development server:
+4. Run the development server:
    ```bash
-   npm start
+      npm start
